@@ -1,0 +1,7 @@
+usage "afn_t [OPTION...]"
+description "afn"
+package "afn_t"
+version "0.1"
+
+#Options
+option "input" i "archivo a leer" string required
