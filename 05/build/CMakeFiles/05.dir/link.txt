@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/05.dir/parser.c.o CMakeFiles/05.dir/scanner.c.o  -o 05 -lfl 
